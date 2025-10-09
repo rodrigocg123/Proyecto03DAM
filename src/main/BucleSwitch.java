@@ -1,4 +1,4 @@
-package main;
+
 
 public class BucleSwitch {
     public static void main(String[] args) {
